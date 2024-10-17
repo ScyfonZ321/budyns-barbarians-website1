@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Budyns Barbarians Football Team Official Website">
+    <title>Budyns Barbarians - Unstoppable Football Team</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Budyns Barbarians</h1>
+        <h2>Unstoppable Warriors on the Field!</h2>
+        <img src="budyns_barbarians_logo.png" alt="Budyns Barbarians Logo">
+    </header>
+
+    <!-- Welcome Section -->
+    <section class="welcome">
+        <h3>Welcome to Budyns Barbarians</h3>
+        <p>Welcome to the official site of Budyns Barbarians! We are a football team that thrives on hard work, teamwork, and relentless passion. On and off the field, we embody the spirit of true Barbarians. Explore our journey, achievements, and why we’re the best team in the league!</p>
+    </section>
+
+    <!-- About Us Section -->
+    <section class="about">
+        <h3>About Us</h3>
+        <p>Founded by passionate players, Budyns Barbarians have grown into a force to be reckoned with. Our history is one of victories, challenges, and the desire to be the best!</p>
+        <p>Every game is a battle, and we bring the true Barbarian spirit to every match, with no surrender and no retreat.</p>
+    </section>
+
+    <!-- Players Section -->
+    <section class="players">
+        <h3>Meet the Team</h3>
+        <ul>
+            <li><strong>Captain:</strong> John Smith – Midfielder</li>
+            <li><strong>Striker:</strong> Alex Johnson – Forward</li>
+            <li><strong>Defender:</strong> Michael Carter – Center Back</li>
+            <!-- Add more players -->
+        </ul>
+    </section>
+
+    <!-- Upcoming Matches Section -->
+    <section class="matches">
+        <h3>Upcoming Matches</h3>
+        <p>Don’t miss the Barbarians in action this Saturday against the rival team!</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Budyns Barbarians. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

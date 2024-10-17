@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #b30000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header img {
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.welcome h3, .about h3, .players h3, .matches h3 {
+    font-size: 28px;
+    color: #b30000;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #b30000;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
